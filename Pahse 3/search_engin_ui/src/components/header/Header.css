@@ -1,0 +1,27 @@
+#home-bar {
+    display: flex;
+    padding: 10px 10px;
+    background-color: #4684b0;
+    border-bottom: 2px solid #6b24a9;
+    border-radius: 0 0 10px 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+}
+
+#center {
+    display: flex;
+    align-items: center;
+    margin: auto;
+}
+
+#avatar {
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+}
+
+#bar-name {
+    text-align: center;
+    font: 700 normal 20px "American Typewriter", serif;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    color: #00FF87;
+}

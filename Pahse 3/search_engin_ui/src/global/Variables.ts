@@ -1,0 +1,1 @@
+export const searchMethods = ['ltn.lnn', 'ltc.lnc', 'okapi25']
