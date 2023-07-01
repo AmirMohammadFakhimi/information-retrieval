@@ -3,12 +3,12 @@ It was our project in the Modern Information Retrieval course at the Sharif Univ
 ### Table of Contents
 ---
 - [Explanations](#explanations)
-  - [Phase 1](phase-1)
-  - [Phase 2](phase-2)
-  - [Phase 3](phase-3)
+  - [Phase 1](#phase-1)
+  - [Phase 2](#phase-2)
+  - [Phase 3](#phase-3)
 - [How to Run](#how-to-run)
-  - [Phase 3](phase-3)
-- [Sample of the UI](#sample-of-the-ui)
+  - [Phase 3](#phase-3)
+- [Sample of The UI](#sample-of-the-ui)
 ### Explanations
 ---
 The explanation of each phase and its implemented parts is as below:
